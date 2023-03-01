@@ -1,0 +1,8 @@
+{
+    "mode": "basic",
+    "timeout": 5.0,
+    "parallelScans": 1,
+    "domains": [
+        "https://example.service-now.com"
+    ]
+}
